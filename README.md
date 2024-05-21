@@ -1,6 +1,6 @@
 # SuppressSoil-Data
 
-Soil suppressiveness in insect pest control - raw data tables and R code.
+Soil suppressiveness in insect pest control - raw data tables and R code of the study by Harmsen et al., 2024 (preprint: https://doi.org/10.1101/2024.03.12.584584).
 
 R scripts are in .ipynb format. To convert to R Markdown document, use convert_ipynb() from the "rmarkdown" package.
 
