@@ -6,4 +6,4 @@ R scripts are in .ipynb format. To convert to R Markdown document, use convert_i
 
 Metadata, ASV_sequences and taxonomy table generated from DADA2 pipeline, using the sequences available under the NCBI accs. no. PRJNA1075215.
 
-This is a copy of the repository at https://github.com/nhrmsn/SuppressSoil-Data.
+This is a copy of the repository originally created by Nadine Harmsen (https://github.com/nhrmsn/SuppressSoil-Data). This copy only serves to enable archiving of the repository at Zenodo.
